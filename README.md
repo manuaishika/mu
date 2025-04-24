@@ -14,8 +14,13 @@ git clone (eazy pz)
 # Requirements
 
 PyTorch >= 1.9.0
+
 torchvision >= 0.10.0
+
 matplotlib >= 3.4.0
+
 scikit-learn >= 0.24.0
+
 mrcfile >= 1.3.0
+
 vedo >= 2023.4.6 (for 3D visualization)
