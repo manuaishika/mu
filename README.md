@@ -1,6 +1,5 @@
  # Spatial Transformer Networks (STNs) for both 2D image recognition tasks (MNIST) and 3D CryoET (Cryo-Electron Tomography) volume analysis.
 
-
 # Key Features
 
 Implementation of 2D STNs for MNIST digit recognition
@@ -10,11 +9,7 @@ Training pipelines with detailed logging and metrics tracking
 Modular architecture for easy extension to other datasets
 
 # Clone the repository
-git clone https://github.com/yourusername/cryoet-stn.git
-cd cryoet-stn
-
-# Install dependencies
-pip install -r requirements.txt
+git clone (eazy pz)
 
 # Requirements
 
